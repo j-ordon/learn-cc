@@ -1,6 +1,6 @@
 ---
-title: Web Deisign
 image_path: ""
+title: Web Deisign
 ---
 
 Beautiful, clean designs tailored to your business.
